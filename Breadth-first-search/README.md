@@ -1,4 +1,4 @@
-# Bread-first search algorithm
+# Breadth-first search algorithm
 
 **Question:** 
 This question has three parts 1, 2 and 3.
