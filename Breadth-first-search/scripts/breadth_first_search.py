@@ -90,3 +90,5 @@ with open("large.graph", "r") as f: # opening the given graph as a file
 
 bfs(adj_dict, 'AT5G49450')
 printpath(adj_dict, 'AT5G49450', 'AT5G65210')
+
+############################# End of Script ###############################
