@@ -1,6 +1,4 @@
-# This is a Heading
-
-**Bread-first search algorithm**
+# Bread-first search algorithm
 
 **Question:** 
 This question has three parts 1, 2 and 3.
